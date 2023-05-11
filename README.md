@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @rifat3221
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @shahriyar_rifat/RRT-group
+- 👀 I’m interested in ...dev
+- 🌱 I’m currently learning ... nothing much right now 
+- 💞️ I’m looking to collaborate on ...some exclusive apk, ios, ext 
+- 📫 How to reach me ... curiosity 
 
 <!---
-rifat3221/rifat3221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@shahriyar_rifat/RRT-group ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->i love yoou
+--->
 
